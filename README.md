@@ -1,5 +1,7 @@
 # simple-yurii-pkm — 私の PKM システム概要
 
+> **SYN ＝ simple_yurii_note**（Vim で使う自作のノート管理プラグインと、そのノート vault のこと。このフォルダの PKM 本体）
+
 このフォルダは、私（yurii）の PKM（Personal Knowledge Management）システムの
 ドキュメント置き場。**他のAI・未来の自分が引き継げるように**、構成と規則をここに集める。
 
